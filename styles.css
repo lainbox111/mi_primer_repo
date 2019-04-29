@@ -4,3 +4,11 @@
   background-color: blue;
   position: fixed;
 }
+
+
+
+.footer{
+  height: 200px;
+  width: 100%;
+  background-color: red;
+}
